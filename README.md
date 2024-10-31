@@ -2,7 +2,7 @@
 
 This project aims to forecast fuel demand at Repsol's service stations in the province of A Coruña, Spain, using historical sales data and various external variables. Accurate demand predictions allow for better inventory management, optimized pricing strategies, and efficient resource allocation. By incorporating factors such as weather, public holidays, and station location, this model supports strategic decision-making to maximize profitability at individual stations and across the network.
 
-Key Features:
+## Key Features:
 
 1. Objective: Predict monthly and daily fuel sales at Repsol stations based on a three-year historical dataset.
 2. Data Sources:
